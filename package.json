@@ -1,0 +1,17 @@
+{
+  "name": "18_youtubeplaylistanalyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "youTube.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "*",
+    "pdfkit": "^0.13.0",
+    "puppeteer": "^13.1.1"
+  }
+}
